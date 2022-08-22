@@ -1,0 +1,73 @@
+.navbar .container-fluid .navbar-brand .nav-link {
+    background-image: none;
+    color: white;
+}
+.navbar-custom{
+    background-color:turquoise#7952b3;
+    padding: 10px;
+    color: white;
+}
+h2{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: none;
+}
+body {
+    /* background-color: #f2f2f2; */
+    background-color:#ffff;
+}
+
+.form-div{
+    max-width: 90%;
+    background-color: #cac8c8;
+    border: 3px;
+    margin-top: 25px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 10px;
+}
+.textinputs {
+    max-width:30%
+}
+.text {
+    padding-bottom:25px;
+}
+p{
+    font-size: small;
+    margin: 5px;
+}
+button{
+    margin-bottom: 25px;
+}
+.btn-bd-logout{
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+.btn-bd-logout:hover{
+                        background-color: #ffe484;
+}
+
+
+a{
+    color: #ffff;
+}
+.text-white{
+    font-weight: 600;
+    background-image: none;
+}
+.text-white:hover{
+    background-color: #ffe484;
+}
+
+.text-white:focus{
+    background-color: #ffe484;
+}
+.bd-footer a {
+    color: #495057;
+    text-decoration: none;
+}
+ .bd-footer a:hover{
+     color:blue;
+     text-decoration: underline;
+ }
